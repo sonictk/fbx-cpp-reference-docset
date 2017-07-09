@@ -1,0 +1,4 @@
+# Ignore build files and backup files
+backup/
+fbx-2016-cpp.docset/Contents/Resources/Documents/*
+*.pyc
